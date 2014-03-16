@@ -1,0 +1,5 @@
+# gitignore to keep out libraries, etc.
+
+/AM2302
+/dht11
+/libraries
