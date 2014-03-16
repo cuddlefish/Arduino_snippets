@@ -1,5 +1,9 @@
 # gitignore to keep out libraries, etc.
 
-/AM2302
-/dht11
-/libraries
+/AM2302_3/*
+/dht11/*
+/libraries/*
+
+
+
+# use git rm --cached <filename> if something gets added on git add
